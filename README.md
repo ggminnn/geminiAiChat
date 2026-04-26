@@ -1,6 +1,9 @@
 # ✨ GGM's AI Chat (Streaming & History)
 > **FastAPI + Vue 3 + Gemini API를 활용한 컨텍스트 인지형 스트리밍 채팅 앱**
 
+
+![Main Screenshot](https://github.com/user-attachments/assets/3a413ee6-be85-40b1-bf17-68f8b49b51e2)
+
 비즈니스 로직과 시스템 아키텍처의 효율성을 고민하며 구축한 프로젝트입니다. 
 단순한 채팅을 넘어 대화 히스토리 관리와 AI 응답의 실시간성을 극대화하기 위한 스트리밍 처리에 집중했습니다.
 
